@@ -4,8 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 [Angela Tao](https://github.com/XinranTaoAngela)
+
 [Merry Cui](https://github.com/merrylearninggithub)
-[Patrick Zhao](
+
+[Patrick Zhao]
+
 [Yucheng Xu](https://github.com/yucheng-xph)
 
 ## Stakeholders
