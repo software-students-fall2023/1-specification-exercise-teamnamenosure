@@ -3,12 +3,12 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
-[Angela Tao](https://github.com/XinranTaoAngela)
-
-[Merry Cui](https://github.com/merrylearninggithub)
-
-[Patrick Zhao]
-
+[Angela Tao](https://github.com/XinranTaoAngela) 
+ 
+[Merry Cui](https://github.com/merrylearninggithub) 
+ 
+[Patrick Zhao] 
+ 
 [Yucheng Xu](https://github.com/yucheng-xph)
 
 ## Stakeholders
