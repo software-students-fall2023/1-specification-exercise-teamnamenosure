@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
  
 [Merry Cui](https://github.com/merrylearninggithub) 
  
-[Patrick Zhao] 
+[Patrick Zhao](https://github.com/PatrickZhao0) 
  
 [Yucheng Xu](https://github.com/yucheng-xph)
 
