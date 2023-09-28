@@ -34,7 +34,7 @@ Or let's say I usually drink Pinot Noir, and I suddenly want to try Cabernet Sau
   4.Price does not match with taste
 ## Product Vision Statement
 
-A personalized alcohol purchasing app.
+This app aims to provide a comprehensive platform that offers purchasing, guidance, information, and a personalized experience for users interested in exploring the world of alcoholic beverages responsibly.
 
 ## User Requirements
 
