@@ -38,7 +38,25 @@ This app aims to provide a comprehensive platform that offers purchasing, guidan
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As an ordinary consumer, I want to simply be recommended to buy some high-rating beers, so that I am able to enjoy them after a day of hard work.
+
+2. As a chief that cares about customer experience, I want to know what are some of the best-selling alcohols in the market, so that I can better understand customer’s taste for drinks, and develop a menu accordingly.
+
+3. As a whisky lover, I want to keep track of all kinds of whisky I have tried, so that I can know what I haven’t tried yet.
+
+4. As an alcohol lover, I want to understand the background story of different kinds of wines, so that I can better understand the alcohol culture of different producing areas.
+
+5. As a fastidious customer, I want to buy only the best red wines, so that I can sure the drinks with some of my best friends.
+
+6. As a student, I want to buy cheap alcohol, so that I can enjoy them even with a limited budget.
+
+7. As a boy, I want to buy beers that girls might like, so that I can share them with my girlfriend.
+
+8. As a Michelin restaurant owner, I want to buy some of the best quality red and white wines, so that our picky customers can be satisfied.
+
+9. As a foodie who also enjoys cooking, I want to learn more about how to pair different alcohols with different foods, so that the combination of food and drink offers a higher level of satisfaction.
+
+10. As a wine expert, I want to have the chance to share my knowledge of wine with others, so that more people can understand the charm of wines.
 
 ## Activity Diagrams
 
