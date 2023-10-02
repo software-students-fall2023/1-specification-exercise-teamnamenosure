@@ -42,7 +42,7 @@ This app aims to provide a comprehensive platform that offers purchasing, guidan
 
 2. As a chief that cares about customer experience, I want to know what are some of the best-selling alcohols in the market, so that I can better understand customer’s taste for drinks, and develop a menu accordingly.
 
-3. As a whisky lover, I want to keep track of all kinds of whisky I have tried, so that I can know what I haven’t tried yet.
+3. As a whisky lover, I want to keep track of all kinds of whisky I have tried and mark to ones I love, so that I can know what I haven’t tried yet, and purchase the ones I wish to try.
 
 4. As an alcohol lover, I want to understand the background story of different kinds of wines, so that I can better understand the alcohol culture of different producing areas.
 
@@ -54,13 +54,15 @@ This app aims to provide a comprehensive platform that offers purchasing, guidan
 
 8. As a Michelin restaurant owner, I want to buy some of the best quality red and white wines, so that our picky customers can be satisfied.
 
-9. As a foodie who also enjoys cooking, I want to learn more about how to pair different alcohols with different foods, so that the combination of food and drink offers a higher level of satisfaction.
+9. As a foodie who also enjoys cooking, I want to learn more about how to pair different alcohols with different foods, so that I can purchase wine that combines with the foods and offers a higher level of satisfaction.
 
 10. As a wine expert, I want to have the chance to share my knowledge of wine with others, so that more people can understand the charm of wines.
 
 ## Activity Diagrams
-![UML1](https://github.com/software-students-fall2023/1-specification-exercise-teamnamenosure/assets/122402213/788e154f-e196-433f-9656-83071ac5fcb3)
+As a whisky lover, I want to keep track of all kinds of whisky I have tried and mark to ones I love, so that I can know what I haven’t tried yet, and purchase the ones I wish to try.
+![UML1](https://github.com/software-students-fall2023/1-specification-exercise-teamnamenosure/blob/main/uml1.png)
 
+As a foodie who also enjoys cooking, I want to learn more about how to pair different alcohols with different foods, so that I can purchase wine that combines with the foods and offers a higher level of satisfaction.
 ![UML2](https://github.com/software-students-fall2023/1-specification-exercise-teamnamenosure/blob/main/uml2.png)
 
 ## Clickable Prototype
