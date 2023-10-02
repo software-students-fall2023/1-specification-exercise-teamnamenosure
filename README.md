@@ -61,7 +61,7 @@ This app aims to provide a comprehensive platform that offers purchasing, guidan
 ## Activity Diagrams
 ![UML1](https://github.com/software-students-fall2023/1-specification-exercise-teamnamenosure/assets/122402213/788e154f-e196-433f-9656-83071ac5fcb3)
 
-![UML2](/Users/YuchengXu/Desktop/uml1.png)
+![UML2](https://github.com/software-students-fall2023/1-specification-exercise-teamnamenosure/blob/main/uml2.png)
 
 ## Clickable Prototype
 [link to clickable prototype](https://www.figma.com/proto/bqLkKwx4nshuJqJjizjYPx/Wine-App?type=design&node-id=87-1055&t=AXlLTbXN5sGCifKn-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=87%3A1055&mode=design)
