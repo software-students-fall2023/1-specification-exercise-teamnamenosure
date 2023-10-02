@@ -60,7 +60,7 @@ This app aims to provide a comprehensive platform that offers purchasing, guidan
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+[image of uml diagram](/WechatIMG379.jpg)
 
 ## Clickable Prototype
 [link to clickable prototype](https://www.figma.com/proto/bqLkKwx4nshuJqJjizjYPx/Wine-App?type=design&node-id=87-1055&t=AXlLTbXN5sGCifKn-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=87%3A1055&mode=design)
