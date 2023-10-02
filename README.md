@@ -67,4 +67,5 @@ As a foodie who also enjoys cooking, I want to learn more about how to pair diff
 
 ## Clickable Prototype
 [link to wireframe diagram](https://www.figma.com/file/bqLkKwx4nshuJqJjizjYPx/Wine-App?type=design&node-id=0-1&mode=design&t=69r4Ns7DWe1PMIWK-0)
+
 [link to clickable prototype](https://www.figma.com/proto/bqLkKwx4nshuJqJjizjYPx/Wine-App?type=design&node-id=87-1055&t=AXlLTbXN5sGCifKn-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=87%3A1055&mode=design)
