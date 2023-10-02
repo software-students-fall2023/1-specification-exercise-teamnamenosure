@@ -59,9 +59,9 @@ This app aims to provide a comprehensive platform that offers purchasing, guidan
 10. As a wine expert, I want to have the chance to share my knowledge of wine with others, so that more people can understand the charm of wines.
 
 ## Activity Diagrams
-![WechatIMG379](https://github.com/software-students-fall2023/1-specification-exercise-teamnamenosure/assets/122402213/788e154f-e196-433f-9656-83071ac5fcb3)
+![UML1](https://github.com/software-students-fall2023/1-specification-exercise-teamnamenosure/assets/122402213/788e154f-e196-433f-9656-83071ac5fcb3)
 
-[image of uml diagram](/WechatIMG379.jpg)
+![UML2](/Users/YuchengXu/Desktop/uml1.png)
 
 ## Clickable Prototype
 [link to clickable prototype](https://www.figma.com/proto/bqLkKwx4nshuJqJjizjYPx/Wine-App?type=design&node-id=87-1055&t=AXlLTbXN5sGCifKn-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=87%3A1055&mode=design)
