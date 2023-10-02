@@ -27,6 +27,8 @@ Or let's say I usually drink Pinot Noir, and I suddenly want to try Cabernet Sau
   2. Alcohol from different demographics
   3. Know other people's comment on each bottle
   4. Personalized experience
+
+  
 4 fruatrations that the app can help with: 
   1.Too much to choose from
   2.Don't understand the language on the bottles
