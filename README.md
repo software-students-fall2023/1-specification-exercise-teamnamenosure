@@ -66,4 +66,5 @@ As a foodie who also enjoys cooking, I want to learn more about how to pair diff
 ![UML2](https://github.com/software-students-fall2023/1-specification-exercise-teamnamenosure/blob/main/uml2.png)
 
 ## Clickable Prototype
+[link to wireframe diagram](https://www.figma.com/file/bqLkKwx4nshuJqJjizjYPx/Wine-App?type=design&node-id=0-1&mode=design&t=69r4Ns7DWe1PMIWK-0)
 [link to clickable prototype](https://www.figma.com/proto/bqLkKwx4nshuJqJjizjYPx/Wine-App?type=design&node-id=87-1055&t=AXlLTbXN5sGCifKn-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=87%3A1055&mode=design)
